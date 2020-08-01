@@ -4,7 +4,10 @@
     <list default="true" id="f626c52e-29a0-46cb-81e6-8a814177dd86" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/BannerSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BannerSelenium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BannerSelenium.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BannerSelenium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BannerSelenium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HelloSeleniumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RegistrationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TuitionCalculatorTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +120,7 @@
       <workItem from="1585149022394" duration="2885000" />
       <workItem from="1585581308414" duration="609000" />
       <workItem from="1585613795356" duration="384000" />
+      <workItem from="1596312822175" duration="323000" />
     </task>
     <servers />
   </component>
