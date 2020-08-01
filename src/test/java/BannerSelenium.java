@@ -9,7 +9,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class BannerSelenium {
     public static ChromeDriver driver;
 
-
     @BeforeClass
     public static void setUp() {
         System.setProperty("webdriver.chrome.driver","chromedriver.exe");
@@ -21,10 +20,9 @@ public class BannerSelenium {
         WebElement login = driver.findElement(By.id("UserID"));
         WebElement pin = driver.findElement(By.name("PIN"));
         WebElement submit = driver.findElement(By.xpath("/html/body/div[3]/form/p/input[1]"));
-        login.sendKeys("900148636");
-        pin.sendKeys("122597");
+        login.sendKeys("");
+        pin.sendKeys("");
         submit.click();
-
     }
 
     @Test
@@ -33,7 +31,7 @@ public class BannerSelenium {
         Assert.assertEquals(driver.getTitle(),"Main Menu");
     }
 
-    public double getTution() {
+    public double getTuition() {
         // Test my banner amount with the in state estimate
 
         login();
@@ -97,7 +95,7 @@ public class BannerSelenium {
          Assert.assertEquals(2967.02,getInStateEstimate(link),100);
 
          //Test my tuition through banner with in state estimate with $100 give and take
-         Assert.assertEquals(getTution(), getInStateEstimate(link),100);
+         Assert.assertEquals(getTuition(), getInStateEstimate(link),100);
 
     }
 

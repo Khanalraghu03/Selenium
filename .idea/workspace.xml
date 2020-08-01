@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f626c52e-29a0-46cb-81e6-8a814177dd86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BannerSelenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TuitionCalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HelloSeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HelloSeleniumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RegistrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HelloSeleniumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HelloSeleniumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BannerSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BannerSelenium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BannerSelenium.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BannerSelenium.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/log" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -48,7 +44,14 @@
       <recent name="C:\Users\Khana\Downloads\HelloSelenium" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BannerSelenium">
+  <component name="RunManager" selected="Application.NCLGame">
+    <configuration name="NCLGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NCLGame" />
+      <module name="HelloSelenium" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BannerSelenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HelloSelenium" />
       <option name="PACKAGE_NAME" value="" />
@@ -88,22 +91,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegistrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HelloSelenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RegistrationTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NCLGame" />
         <item itemvalue="JUnit.BannerSelenium" />
         <item itemvalue="JUnit.BannerSelenium.loginTest" />
         <item itemvalue="JUnit.BannerSelenium.testTuitionEstimate" />
         <item itemvalue="JUnit.BannerSelenium.getTuitionEstimate" />
-        <item itemvalue="JUnit.RegistrationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +113,10 @@
       <updated>1583782990107</updated>
       <workItem from="1583782993695" duration="922000" />
       <workItem from="1583783932155" duration="3785000" />
-      <workItem from="1583955936388" duration="12073000" />
+      <workItem from="1583955936388" duration="13052000" />
+      <workItem from="1585149022394" duration="2885000" />
+      <workItem from="1585581308414" duration="609000" />
+      <workItem from="1585613795356" duration="384000" />
     </task>
     <servers />
   </component>
@@ -131,22 +128,26 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="611" y="285" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1500.960@0.0.1500.960" timestamp="1583783148683" />
-    <state width="1458" height="255" key="GridCell.Tab.0.bottom" timestamp="1583970142784">
+    <state x="531" y="236" key="FileChooserDialogImpl" timestamp="1585613817310">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="255" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1583970142784" />
-    <state width="1458" height="255" key="GridCell.Tab.0.center" timestamp="1583970142784">
+    <state x="531" y="236" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1585613817310" />
+    <state width="1458" height="255" key="GridCell.Tab.0.bottom" timestamp="1585182955040">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="255" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1583970142784" />
-    <state width="1458" height="255" key="GridCell.Tab.0.left" timestamp="1583970142783">
+    <state width="1458" height="255" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1585182955040" />
+    <state width="1458" height="255" key="GridCell.Tab.0.center" timestamp="1585182955040">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="255" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1583970142783" />
-    <state width="1458" height="255" key="GridCell.Tab.0.right" timestamp="1583970142784">
+    <state width="1458" height="255" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1585182955040" />
+    <state width="1458" height="255" key="GridCell.Tab.0.left" timestamp="1585182955039">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="255" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1583970142784" />
+    <state width="1458" height="255" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1585182955039" />
+    <state width="1458" height="255" key="GridCell.Tab.0.right" timestamp="1585182955040">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1458" height="255" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1585182955040" />
     <state x="356" y="56" key="SettingsEditor" timestamp="1583784136413">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
